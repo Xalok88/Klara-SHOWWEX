@@ -1,3 +1,6 @@
+<img width="663" height="793" alt="изображение" src="https://github.com/user-attachments/assets/55109cb4-476d-42d0-ad63-756db278152f" />
+<img width="663" height="793" alt="изображение" src="https://github.com/user-attachments/assets/7f7f431e-83ed-48b1-8fbf-089771e1b372" />
+<img width="665" height="785" alt="изображение" src="https://github.com/user-attachments/assets/4740e844-e527-4d1a-bfc7-864b68d27910" />
 # Klara-SHOWWEX
 Клара, умный асисистент умеющий все! Представляеться вашему внимаю Klara AI Голосовой и текстовый ИИ агент умеющий все на вашем пк!
 ОСНОВНЫЕ И БУДУЩИЕ ФУНКЦИИ!
