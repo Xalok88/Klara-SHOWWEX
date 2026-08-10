@@ -1,0 +1,73 @@
+
+/* ===== Ultra Theme (glass + neon) ===== */
+* { font-family: "SF Pro Display", "Segoe UI", system-ui; }
+QMainWindow { background: #090a10; }
+
+#Root {
+  background: transparent;
+}
+
+.Card {
+  background: rgba(24, 26, 43, 0.55);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 22px;
+}
+
+#Sidebar {
+  background: rgba(16, 18, 32, 0.62);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 22px;
+}
+
+#Badge {
+  background: rgba(255,255,255,0.12);
+  color: #f2f3ff;
+  border-radius: 10px;
+  padding: 6px 10px;
+  font-weight: 700;
+}
+
+QLabel#Heading {
+  color: #f2f3ff;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: .2px;
+}
+
+QLineEdit, QTextEdit {
+  background: rgba(255,255,255,0.06);
+  color: #e9e9f2;
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 14px;
+  padding: 12px 14px;
+}
+
+QPushButton {
+  background: rgba(255,255,255,0.08);
+  color: #ececf2;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 14px;
+  padding: 10px 14px;
+}
+QPushButton:hover { background: rgba(255,255,255,0.16); }
+QPushButton:pressed { background: rgba(255,255,255,0.22); }
+
+#Analyze {
+  color: white; border: none; font-weight: 800; padding: 12px 16px;
+  background: qlineargradient(x1:0,y1:0,x2:1,y2:0, stop:0 #7b5cff, stop:1 #ff2bd1);
+  border-radius: 16px;
+}
+
+QCheckBox { color: #d6d7e2; spacing: 8px; }
+QCheckBox::indicator { width: 38px; height: 22px; }
+QCheckBox::indicator:unchecked { image: url(); border-radius: 11px; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.18); }
+QCheckBox::indicator:checked   { image: url(); border-radius: 11px; background: qlineargradient(x1:0,y1:0,x2:1,y2:0, stop:0 #7b5cff, stop:1 #ff2bd1); border: 1px solid rgba(255,255,255,0.26); }
+
+/* Toast */
+#Toast {
+  background: rgba(25,27,46,0.85);
+  color: #e9e9f5;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 12px;
+  padding: 10px 14px;
+}
