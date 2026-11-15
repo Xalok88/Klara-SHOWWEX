@@ -87,7 +87,7 @@ Klara объединяет AI-общение, голосовое взаимод�
 
 ## Галерея
 
-Все изображения ниже — скриншоты и демонстрационные материалы Klara Build 612.
+Все изображения ниже — реальные скриншоты и демонстрационные материалы Klara Build 612. Общая композиция вверху страницы показывает основные экраны вместе; ниже каждый раздел представлен отдельно.
 
 ### Главное окно
 
@@ -101,12 +101,23 @@ Klara объединяет AI-общение, голосовое взаимод�
 
 <img src="screenshots/klara-search.png" alt="Интерфейс Klara Search" width="100%">
 
-### iPhone
+### iPhone и Klara Remote
 
-Мобильная сторона проекта на текущем этапе ориентирована на iPhone.
+Мобильная сторона проекта на текущем этапе ориентирована на **iPhone**. На телефоне доступен экран Klara Remote: сенсорный тачпад, системные клавиши, управление громкостью Windows, ввод текста на ПК и переключение в CastMode.
 
 <div align="center">
-  <img src="screenshots/iphone-splash.png" alt="Экран Klara на iPhone" width="260">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <strong>Klara Remote</strong><br>
+        <img src="screenshots/photo_5463004350054605392_w.jpg" alt="Klara Remote — сенсорный пульт для Windows" width="260">
+      </td>
+      <td align="center" valign="top">
+        <strong>Мобильный экран Klara</strong><br>
+        <img src="screenshots/iphone-splash.png" alt="Экран Klara на iPhone" width="260">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### CastMode
