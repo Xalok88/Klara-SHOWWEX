@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="screenshots/klara-showcase-build-612.png" alt="Klara 0.05A — Build 612 showcase" width="100%">
   <h1>Klara</h1>
   <p><strong>Персональный AI-ассистент для Windows</strong></p>
   <p>Чат · Голос · Поиск · CODE / AGENT · CONNECT · CastMode</p>
@@ -86,7 +87,33 @@ Klara объединяет AI-общение, голосовое взаимод�
 
 ## Галерея
 
-Скриншоты Build 612 подготовлены для публикации. Изображения будут добавлены в `docs/screenshots/` отдельным коммитом после загрузки бинарных файлов в репозиторий.
+Все изображения ниже — скриншоты и демонстрационные материалы Klara Build 612.
+
+### Главное окно
+
+Основной интерфейс Klara на Qt6 / QML: навигация по разделам, чат, подсказки и панель ввода.
+
+<img src="screenshots/desktop-main.png" alt="Главное окно Klara" width="100%">
+
+### Klara Search
+
+Локальный поиск по приложениям, играм и файлам с категориями и панелью сведений о выбранном результате.
+
+<img src="screenshots/klara-search.png" alt="Интерфейс Klara Search" width="100%">
+
+### iPhone
+
+Мобильная сторона проекта на текущем этапе ориентирована на iPhone.
+
+<div align="center">
+  <img src="screenshots/iphone-splash.png" alt="Экран Klara на iPhone" width="260">
+</div>
+
+### CastMode
+
+Отдельный медиа-интерфейс с визуализацией текущего воспроизведения.
+
+<img src="screenshots/castmode.png" alt="Klara CastMode" width="100%">
 
 ## Архитектура
 
